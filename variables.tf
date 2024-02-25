@@ -1,6 +1,6 @@
 variable "rgname" {
     type = string
-    default = "gitmodrg-RG"
+    default = "gitRGstor"
   
 }
 
