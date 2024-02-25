@@ -1,6 +1,6 @@
 variable "rgname" {
     type = string
-    default = "gitmodrg-new"
+    default = "gitmodrg-RG"
   
 }
 
@@ -12,12 +12,12 @@ variable "rgloc" {
 
 variable "saname" {
     type = string
-    default = "gitmodstor"
+    default = "gitmodstorage"
   
 }
 
 variable "tags" {
     type = string
-    default = "dev"
+    default = "DEV"
   
 }
